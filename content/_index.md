@@ -1,4 +1,4 @@
 +++
-title = "jam.school"
+title = "jammer.academy"
 +++
-jam.school
+# Jammer Academy
